@@ -1,4 +1,11 @@
 {
   "name": "node-webkit-exemplo",
-  "main": "index.html"
+  "main": "index.html",
+  "description": "Exemplo Node-Webkit",
+  "version": "0.1.0",
+  "keywords": ["exemplo", "node-webkit"],
+  "window": {
+    "title": "Titulo da Janela quando estiver carregando",
+    "toolbar": false
+  }
 }
